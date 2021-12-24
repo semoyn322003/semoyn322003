@@ -1,18 +1,21 @@
 ## Обо мне
 --- 
-:wave: Привет, меня зовут Семен, мне 18 лет, начинающий специалист программист!
+>:wave: Привет, меня зовут Семен, мне 18 лет, начинающий специалист программист!
+>
+>:wave:Hi, my name is Semyon, I am 18 years old, a novice programmer specialist!
 
-:wave:Hi, my name is Semyon, I am 18 years old, a novice programmer specialist!
+> :eyes: Интересуюсь программированием, защитой информации в сети, настройками ПК и все что с этим связанно!
+> 
+> :eyes: I am interested in programming, information protection on the network, PC settings and everything related to it!
 
-- :eyes: Интересуюсь программированием, защитой информации в сети, настройками ПК и все что с этим связанно!
-- :eyes: I am interested in programming, information protection on the network, PC settings and everything related to it!
 
+>:seedling: Сейчас я учусь в педагогическом колледже на 3 курсе Обеспечения информационной безопасности в автоматизированных системах.
+>
+>:seedling: Now I am studying at a pedagogical college in the 3rd course of Information security in automated systems.
 
-:seedling: Сейчас я учусь в педагогическом колледже на 3 курсе Обеспечения информационной безопасности в автоматизированных системах.
-:seedling: Now I am studying at a pedagogical college in the 3rd course of Information security in automated systems.
-
-- 💞️ Люблю программировать и учавствовать в различных конкурсах.
-- 💞️I like to program and participate in various competitions.
+> 💞️ Люблю программировать и учавствовать в различных конкурсах.
+>
+>  💞️I like to program and participate in various competitions.
 ---
 ## Любимые программы и занятия
 ---
